@@ -12,7 +12,7 @@ const WithRestoService = () => (Wrapped) => {
                 }
             </RestoServiceContext.Consumer>
         )
-    }
+    };
 };
 
 export default WithRestoService;
